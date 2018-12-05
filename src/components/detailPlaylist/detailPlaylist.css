@@ -1,0 +1,17 @@
+.body-detailPlaylist {
+    background: #0A0A0A;
+}
+
+.text-track {
+    font-family: sans-serif;
+    color: white;
+}
+
+.table-track{
+    background: #0A0A0A!important;
+    border-color: red!important;
+}
+
+.img {
+    box-shadow: 10px 0px 20px 15px #020202;
+}

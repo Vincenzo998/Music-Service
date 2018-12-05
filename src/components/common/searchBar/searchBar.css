@@ -1,0 +1,12 @@
+.body-SearchBar {
+    background: #0A0A0A;    
+}
+
+.searchBar-custom {
+    border-radius: 30px!important;
+    border: none!important;
+}
+
+.searchBarButton-custom {
+    border-radius: 30px!important;
+}
